@@ -1,7 +1,7 @@
 body{
 	background-color: #FCFAF9; 
-	color: #49111C;
-	font-family: 'Lora', serif;
+	color: #48114A;
+	font-family: 'Playfair Display', serif;
 	font-size: 16px;
 }
 
@@ -12,14 +12,14 @@ h1,h2,h3,h4,h5{
 }
 
 h1{
-	color: #B62B46;
+	color: #9E2BB5;
     font-weight: 600;
     font-size: 30px;
 
  }
 
  h2{
- 	color: #B62B46;
+ 	color: #9E2BB5;
     font-weight: 600;
     font-size: 20px;
  }
@@ -34,7 +34,7 @@ a:-webkit-any-link {
  }
     
 a:hover {
-	color : #98231F;
+	color : #681F99;
 	text-decoration: none;
 } 
 
@@ -46,12 +46,13 @@ a:hover {
 }
 
 .card-white {
-	background-color: #F4E1E4;
+	background-color: #EDE1F5;
 	padding: 40px;
     box-shadow: 0px 10px 30px rgba(0,0,0,.1);
     border-radius: 7px;
     margin: 20px 0px;
     text-align: center;
+    line-height: 1.6;
 }
 
 .img-circle {
@@ -63,7 +64,7 @@ a:hover {
 }
 
 .btn-purple {
-	background-color: #EEACAA;
+	background-color: #CCA8ED;
 	color: white;
 	padding: 10px 15px;
 	border-radius: 7px;
@@ -71,7 +72,7 @@ a:hover {
 }
 
 .btn-purple:hover {
-	background-color : #98231F;
+	background-color : #681F99;
 	color : white;
 }
 
@@ -87,11 +88,11 @@ a:hover {
 
 .list-inline i{
 	font-size: 50px;
-	color : #EEACAA;
+	color : #CCA8ED;
 }
 .list-inline i:hover{
 	font-size: 50px;
-	color : #98231F;
+	color : #681F99;
 }
 
 /*Custom design with class (1% design) */
